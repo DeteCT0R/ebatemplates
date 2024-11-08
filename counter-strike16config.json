@@ -211,8 +211,8 @@
     },
     {
         "DisplayName":"Install reHLDS",
-        "Category":"Updates",
-        "Subcategory":"Runtime Configuration:build:3",
+        "Category":"Counter-Strike 1.6:stadia_controller",
+        "Subcategory":"Addons:dns:1",
         "Description":"If enabled, the [reHLDS engine](https://github.com/dreamstalker/rehlds) will be installed to run the server. Only works with the Steam Legacy server. Note: update the server after changing this setting",
         "Keywords":"install,rehlds",
         "FieldName":"InstallreHLDS",
