@@ -88,44 +88,6 @@
         "EnumValues":{}
     },
     {
-        "DisplayName":"Timelimit",
-        "Category":"Counter-Strike 1.6:stadia_controller",
-        "Subcategory":"Cvars:dns:2",
-        "Description":"0 = nem vált mapot",
-        "Keywords":"time,limit,rotation,mp_timelimit",
-        "FieldName":"mp_timelimit",
-        "InputType":"number",
-        "MinValue":"0",
-        "ParamFieldName":"mp_timelimit",
-        "DefaultValue":"20",
-        "Placeholder":"20",
-        "Suffix":"minutes",
-        "EnumValues":{}
-    },
-    {
-        "DisplayName":"Szerver Régió",
-        "Category":"Counter-Strike 1.6:stadia_controller",
-        "Subcategory":"Cvars:dns:2",
-        "Description":"Szerver régió. Hagyd 255 ön",
-        "Keywords":"server,region,sv_region",
-        "FieldName":"sv_region",
-        "InputType":"enum",
-        "ParamFieldName":"sv_region",
-        "DefaultValue":"-1",
-        "EnumValues":{
-            "-1":"No region",
-            "0":"East Coast US",
-            "1":"West Coast US",
-            "2":"South America",
-            "3":"Europe",
-            "4":"Asia",
-            "5":"Australia",
-            "6":"Middle East",
-            "7":"Africa",
-            "255":"World"
-        }
-    },
-    {
         "DisplayName":"Maximum játékos",
         "Category":"Counter-Strike 1.6:stadia_controller",
         "Subcategory":"Szerver beállítások:dns:1",
