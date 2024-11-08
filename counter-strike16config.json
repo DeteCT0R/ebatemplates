@@ -111,7 +111,7 @@
         "Description":"Válassz metamod vagy metamod-r között.",
         "Keywords":"install,metamod",
         "FieldName":"InstallMetamod",
-        "InputType":"enum",
+        "InputType":"checkbox",
         "ParamFieldName":"InstallMetamod",
         "DefaultValue":"false",
         "EnumValues":{
