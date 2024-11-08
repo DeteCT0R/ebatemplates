@@ -1,6 +1,6 @@
 Meta.DisplayName=Counter-Strike 1.6
 Meta.Description=Counter-Strike 1.6 Dedicated Server
-Meta.OS=Windows, Linux
+Meta.OS=Linux
 Meta.AarchSupport=NotSupported
 Meta.Arch=x86_64
 Meta.Author=Greelan
