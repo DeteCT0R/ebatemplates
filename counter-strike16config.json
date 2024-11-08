@@ -113,11 +113,10 @@
         "FieldName":"InstallMetamod",
         "InputType":"enum",
         "ParamFieldName":"InstallMetamod",
-        "DefaultValue":"none",
+        "DefaultValue":"false",
         "EnumValues":{
-            "none":"None",
-            "metamod-amx":"Metamod-AMX",
-            "metamod-r":"Metamod-r"
+            "False":"false",
+            "True":"true"
         }
     },
     {
@@ -136,22 +135,9 @@
         }
     },
     {
-        "DisplayName":"Load Plugins",
-        "Category":"Counter-Strike 1.6:stadia_controller",
-        "Subcategory":"Szerver beállítások:dns:1",
-        "Description":"Sets a list of Metamod plugins to load when the server is started. Requires Metamod to be installed. Format: win32|linux <path to .dll/.so>",
-        "Keywords":"plugins",
-        "FieldName":"Plugins",
-        "InputType":"list",
-        "ParamFieldName":"Plugins",
-        "DefaultValue":"",
-        "Special":"listfile:./counter-strike/90/cstrike/addons/metamod/plugins.ini",
-        "EnumValues":{}
-    },
-    {
         "DisplayName":"Fast Download URLs",
         "Category":"Counter-Strike 1.6:stadia_controller",
-        "Subcategory":"Szerverv beállítások:dns:1",
+        "Subcategory":"Szerver beállítások:dns:1",
         "Description":"Sets the URL(s) for clients to download custom content from, instead of sourcing the content from the server. This allows for faster downloads",
         "Keywords":"fastdl,download,url,sv_downloadurl",
         "FieldName":"sv_downloadurl",
