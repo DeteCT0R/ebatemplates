@@ -75,20 +75,6 @@
         "DeleteAfterExtract":true,
         "UpdateSourceConditionSetting":"InstallAMXModX",
         "UpdateSourceConditionValue":"true"
-    },
-   {
-        "DisplayName":"Server Branch",
-        "Category":"Updates",
-        "Subcategory":"Steam Downloads:download",
-        "Description":"Sets the server branch to install. NOTE: Update the server after switching branches!",
-        "Keywords":"server,branch,public,legacy",
-        "FieldName":"ServerBranch",
-        "InputType":"enum",
-        "ParamFieldName":"ServerBranch",
-        "DefaultValue":"public",
-        "EnumValues":{
-            "public":"Public (default)",
-            "steam_legacy":"Steam Legacy (pre-25th anniversary build)"
-        }
     }
+
 ]
