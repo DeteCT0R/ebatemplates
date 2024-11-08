@@ -138,7 +138,7 @@
     {
         "DisplayName":"Load Plugins",
         "Category":"Counter-Strike 1.6:stadia_controller",
-        "Subcategory":"Server:dns:1",
+        "Subcategory":"Szerver beállítások:dns:1",
         "Description":"Sets a list of Metamod plugins to load when the server is started. Requires Metamod to be installed. Format: win32|linux <path to .dll/.so>",
         "Keywords":"plugins",
         "FieldName":"Plugins",
