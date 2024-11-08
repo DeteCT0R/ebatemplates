@@ -89,7 +89,7 @@
     },
     {
         "DisplayName":"Timelimit",
-        "Subcategory":"Szerver beállítások:dns:1",
+        "Category":"Counter-Strike 1.6:stadia_controller",
         "Subcategory":"Cvars:dns:2",
         "Description":"0 = nem vált mapot",
         "Keywords":"time,limit,rotation,mp_timelimit",
@@ -104,7 +104,7 @@
     },
     {
         "DisplayName":"Szerver Régió",
-        "Subcategory":"Szerver beállítások:dns:1",
+        "Category":"Counter-Strike 1.6:stadia_controller",
         "Subcategory":"Cvars:dns:2",
         "Description":"Szerver régió. Hagyd 255 ön",
         "Keywords":"server,region,sv_region",
@@ -127,6 +127,7 @@
     },
     {
         "DisplayName":"Maximum játékos",
+        "Category":"Counter-Strike 1.6:stadia_controller",
         "Subcategory":"Szerver beállítások:dns:1",
         "Description":"Maximum játékos",
         "Keywords":"max,players,limit,maxplayers",
