@@ -214,7 +214,6 @@
    {
         "DisplayName":"Server Branch",
          "Subcategory":"Szerver beállítások:dns:1",
-        "Subcategory":"Steam Downloads:download",
         "Description":"Sets the server branch to install. NOTE: Update the server after switching branches!",
         "Keywords":"server,branch,public,legacy",
         "FieldName":"ServerBranch",
